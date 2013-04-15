@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               Text-7Segment
-version:            v0.0.1_0
-abstract:           Display characters in  | segment style.
+version:            v0.0.1_1
+abstract:           Display characters in seven-segment style in a text terminal.
 author:
     - MANIGREW <Manish.Grewal@gmail.com>
 license:            perl
